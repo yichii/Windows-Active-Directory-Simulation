@@ -1,0 +1,6 @@
+Steps to Unlock an Account(Screenshots are available for reference):
+  1. Identify that the account is locked in the first place(an account will be locked based on the existing account lockout policy in your domain)
+  2. Go to the Active Directory User and Computers tool tab
+  3. Click on the locked account and go under the account tab
+  4. Press unlock account and click apply
+  5. The user will be able to try to login once again
